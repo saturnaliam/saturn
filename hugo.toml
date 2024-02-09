@@ -1,0 +1,36 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'saturnalia'
+theme = 'risotto'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params.theme]
+palette = "main"
+
+[params.about]
+title = "saturnalia"
+description = "lucia's portfolio + PGP keys site!!"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "gh"
+url = "https://github.com/saturnaliam"
+
+[[params.socialLinks]]
+icon = "fa-regular fa-envelope"
+title = "electronic mail"
+url = "https://github.com/saturnaliam"
+
+
+[menu]
+[[menu.main]]
+name = "portfolio"
+url = "/portfolio"
+weight = 10
+
+[[menu.main]]
+name = "pgp"
+url = "/pgp"
+weight = 0
