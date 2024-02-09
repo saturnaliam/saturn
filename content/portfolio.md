@@ -17,7 +17,7 @@ title = 'portfolio'
 ### [mars](https://github.com/saturnaliam/mars)<br>
 - mars is a set of two programs (deimos and phobos) to facilitate the modding of plants vs. zombies.
   - deimos is a program that allows save files to be written to a new directory for later analysis.
-  <img src="/images/deimos.png" alt="deimos picture" style="max-width: 100%; height: auto;">
+  <img src="/saturn/images/deimos.png" alt="deimos picture" style="max-width: 100%; height: auto;">
   - phobos is a tool that allows viewing and modifying certain values inside of the game's memory.
   <img src="/images/phobos.png" alt="phobos picture" style="max-width: 100%; height: auto;">
 ---
