@@ -1,0 +1,4 @@
+            - name: Hugo Publish
+  # You may pin to the exact commit or the version.
+  # uses: avinassh/hugo-publish@0b38d7b87ea74ae0d326546265b118d889a0ee27
+  uses: avinassh/hugo-publish@0.0.1
